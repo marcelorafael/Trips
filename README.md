@@ -3,4 +3,4 @@
 <h3> json-server <h3>
 <h4> Redux Saga <h4>
 
-<img src="https://github.com/marcelorafael/Trips/blob/master/trips.gif" width="800" height="700" />
+<img src="https://github.com/marcelorafael/Trips/blob/master/trips.gif" width="800" height="500" />
