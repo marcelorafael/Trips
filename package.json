@@ -7,7 +7,10 @@
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.3.0",
     "axios": "^0.21.0",
+<<<<<<< HEAD
     "history": "^4.10.1",
+=======
+>>>>>>> 9a1d5ed4baca79792e375bc03d517876e14fcc83
     "immer": "^8.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
