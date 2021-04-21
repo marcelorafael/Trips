@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Trips
 Pequeno sistema de reserva de viagens.
 =======
@@ -8,4 +8,3 @@ Pequeno sistema de reserva de viagens.
 <h4> Redux Saga <h4>
 
 <img src="https://github.com/marcelorafael/Trips/blob/master/trips.gif" width="800" height="500" />
->>>>>>> 9a1d5ed4baca79792e375bc03d517876e14fcc83
